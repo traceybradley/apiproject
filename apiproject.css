@@ -1,0 +1,16 @@
+body {
+    background-color: #490c0c;
+}
+
+h1{
+    text-align: center;
+}
+
+.wrapper {
+    border: 10px solid rgba(238, 232, 232, 0.733);
+}
+
+img{
+    width: 600px;
+    height: 600px;
+}
